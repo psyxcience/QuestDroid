@@ -1,2 +1,2 @@
 # QuestDroid
-A droidscript (javascript) application to easily conduct questionnaires on android phones/tablets.
+A android application to easily conduct questionnaires on android phones/tablets.
