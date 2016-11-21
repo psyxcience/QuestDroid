@@ -1,2 +1,2 @@
 # QuestDroid
-An android application to easily conduct questionnaires on android phones/tablets.
+An android application to easily conduct (simple) questionnaires on android phones/tablets.
